@@ -6,18 +6,20 @@ Please note that I am in no way encouraging neither copyright infringement nor u
 
 ### Prerequisites
 
+* Python v3
+
 * BeautifulSoup 
 ```
-pip install beautifulsoup4
+python3 -m pip install beautifulsoup4
 ```
 
 * fake-useragent
 ```
-pip install fake-useragent
+python3 -m pip install fake-useragent
 ```
 * Requests
 ```
-pip install requests
+python3 -m pip install requests
 
 ```
 
