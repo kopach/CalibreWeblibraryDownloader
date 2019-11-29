@@ -28,7 +28,9 @@ python3 -m pip install requests
 
 1. Edit [libraryStorage](https://github.com/kopach/CalibreWeblibraryDownloader/blob/master/CalibreWeblibraryDownloader.py#L483) variable. Pass path to the directory, where books should be saved to.
 
-2. Just run the script and pass either an adress in the format of ip:port, or a file with lots of adresses (one per line).
+2. (Optionally) Edit list of file formats you want to be downloaded [wantedFormats](https://github.com/kopach/CalibreWeblibraryDownloader/blob/master/CalibreWeblibraryDownloader.py#L481)
+
+3. Just run the script and pass either an adress in the format of ip:port, or a file with lots of adresses (one per line).
 
 
 ## Note
